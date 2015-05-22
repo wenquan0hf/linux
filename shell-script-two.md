@@ -1,4 +1,4 @@
-# SHELL 脚本 
+# Shell 脚本 
 
 <span>终于到</span><span>shell</span> <span>脚本这章了，在以前笔者卖了好多关子说</span><span>shell</span><span>脚本怎么怎么重要，确实</span><span>shell</span><span>脚本在</span><span>linux</span><span>系统管理员的运维工作中非常非常重要</span><span>。</span><span>下面笔者就带你正式进入</span><span>shell</span><span>脚本的世界吧</span><span>。</span>
 
