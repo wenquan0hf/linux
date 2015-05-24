@@ -1,7 +1,8 @@
 {
-    "name": "AWK 中文指南",
-    "introduction": "AWK是一种优良的文本处理工具，Linux及Unix环境中现有的功能最强大的数据处理引擎之一。",
-    "title": "为数据处理而生的语言 - 极客学院 Wiki",
-    "keywords": "AWK中文指南,AWK应用案例",
-    "description": "AWK 是 Unix/Linux 提供的样式扫描与处理工具，非常擅长处理结构化数据和生成表单。"
+    "name": "Linux 入门教程",
+    "introduction": "Linux 是一种自由和开放源码的类 Unix 操作系统，Linux可安装在各种计算机硬件设备中，从手机、平板电脑、路由器和视频游戏控制台，到台式计算机、大型机和超级计算机。",
+    "title": "功能强大而全面的操作系统 - 极客学院 Wiki",
+    "keywords": "源码开放，安全性高，设备要求低",
+    "description": "Linux 是一种广泛使用的类 UNIX 操作系统，它不仅可以在 Intel，AMD 等系列个人计算机上运行，也可以运行在许多工作站上。"
 }
+
